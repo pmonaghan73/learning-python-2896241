@@ -47,7 +47,7 @@ def someFunction():
     print (mystr)
 
 someFunction()
-print (mystr) 
+print (mystr)
 
 del mystr
 print (mystr)
