@@ -3,7 +3,7 @@ import pandas as pd
 
 # read csv data 
 df1 = pd.read_csv('G:\\My Drive\\Fixflo\FixfloIncorrect properties.csv') 
-df2 = pd.read_csv('G:\\My Drive\\Fixflo\Report666323_13112024.csv') 
+df2 = pd.read_csv('G:\\My Drive\\Fixflo\Report666323_19112024.csv') 
 
 Left_join = pd.merge(df1, 
 					df2, 
